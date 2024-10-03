@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Latihan Pertama HTML AdamArya</title>
+</head>
+<body>
+<h1>Belajar HTML Menyenangkan</h1>
+<h2>Belajar HTML Menyenagkan </h2>
+<h3>Belajar HTML Menyenagkan </h3>
+<h4>Belajar HTML Menyenagkan </h4>
+<h5>Belajar HTML Menyenagkan </h5>
+<h6>Belajar HTML Menyenagkan </h6>
+<hr>
+<h1>Hari Kesaktian Pancasila</h1>
+<p>	Peringatan "Hari Kesaktian Pancasila" berkaitan erat dengan peristiwa bersejarah yang terjadi pada tanggal 30 September 1965, yang dikenal sebagai Gerakan 30 September (G30S/PKI).Gerakan ini merupakan upaya kudeta oleh Partai Komunis Indonesia (PKI) yang bertujuan menggantikan ideologi Pancasila dengan ideologi komunis. Namun, berkat upaya TNI dan rakyat Indonesia, kudeta tersebut berhasil digagalkan.Pemberontakan tersebut menewaskan enam jenderal Angkatan Darat dan satu perwira lainnya, yang kemudian dikenal sebagai "Pahlawan Revolusi".	Setelah peristiwa tragis ini, pemerintah Indonesia di bawah pimpinan Presiden Soeharto melaksanakan penumpasan terhadap PKI dan para pendukungnya. Pada tanggal 1 Oktober 1965, Indonesia berhasil memulihkan kembali kendali atas negara dan mempertahankan Pancasila sebagai ideologi negara. Oleh karena itu, tanggal 1 Oktober ditetapkan sebagai Hari Kesaktian Pancasila untuk menandai kemenangan ideologi Pancasila atas ancaman ideologi lain yang berusaha merongrong persatuan bangsa.<p/>
+<img src="/Latihan/IMG/Pancasila.jpeg">
+
+
+
+
+
+
+
+
+</body>
+</html>
